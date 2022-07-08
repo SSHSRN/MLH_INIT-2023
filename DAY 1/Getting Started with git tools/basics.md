@@ -34,9 +34,9 @@ Readme.md file => for documentation.
 
 .gitignore => ignore files (not upload selected files to github.)
 
-clone vs fork:
+clone vs fork:<br>
     * clone => clones the repo (user gets the same version of the repo and can commit to it).
-        |=> used by a team of developers.
+        |=> used by a team of developers.<br>
     * fork => creates another version of the same repository.
         |=> used by developers(contributors) who want to add on to an open source project.
 
